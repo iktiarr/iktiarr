@@ -1,36 +1,92 @@
-<h1 align="center">Hi 👋, I'm Iktiar Ramadani</h1>
-<h3 align="center">Saya adalah seorang konten kreator muda asal indonesia</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Iktiar+Ramadani;Full-stack+Web+Developer;GIS+Student;Content+Creator+from+Indonesia" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iktiarr&label=Profile%20views&color=0e75b6&style=flat" alt="iktiarr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iktiarr" alt="iktiarr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/iktiarramadanii" target="blank"><img src="https://img.shields.io/twitter/follow/iktiarramadanii?logo=twitter&style=for-the-badge" alt="iktiarramadanii" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [lynk.id/iktiarramadani](lynk.id/iktiarramadani)
-
-- 📝 I regularly write articles on [https://tally.so/r/3l7pWk](https://tally.so/r/3l7pWk)
-
-- 📫 How to reach me **irofficialfeedback@gmail.com**
-
-- 📄 Know about my experiences [lynk.id/iktiarramadani](lynk.id/iktiarramadani)
-
-- ⚡ Fun fact **I think I'm a good person**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iktiarramadanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iktiarramadanii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iktiarramadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iktiarramadani" height="30" width="40" /></a>
-<a href="https://fb.com/iktiar.ramadani.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iktiar.ramadani.5" height="30" width="40" /></a>
-<a href="https://instagram.com/iktiarramadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iktiarramadani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iktiarramadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iktiarramadani" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iktiarr&label=Profile%20Views&color=0e75b6&style=flat-square" alt="iktiarr" />
+  <img src="https://img.shields.io/github/followers/iktiarr?label=Followers&style=flat-square&color=2196F3" alt="Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iktiarr&show_icons=true&locale=en&layout=compact" alt="iktiarr" /></p>
+### 💫 About Me
+Seorang mahasiswa **Geographic Information Systems (GIS)** yang antusias dengan pengembangan web modern. Berfokus pada pembangunan aplikasi yang efisien, user-friendly, dan estetis. Saat ini aktif dalam berbagai organisasi dan proyek kreatif.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iktiarr&show_icons=true&locale=en" alt="iktiarr" /></p>
+- 🔭 **Sedang mengerjakan:** [School Website Project](https://masdan.vercel.app) & Dynamic CV Generator.
+- 🎓 **Pendidikan:** Mahasiswa Sistem Informasi (GIS Focus).
+- 🏛️ **Organisasi:** R&D di **Ethicare**, Personnel di **Siebook.id**, & Staff di **Vitaswastha**.
+- ✍️ **Blog:** Rutin menulis di [Tally So](https://tally.so/r/3l7pWk).
+- 📍 **Domisili:** Pamekasan, Jawa Timur.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iktiarr&" alt="iktiarr" /></p>
+---
+
+### 🚀 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Frontend</strong></td>
+    <td align="center" width="200"><strong>Backend & DB</strong></td>
+    <td align="center" width="200"><strong>Tools & Design</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+      <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=iktiarr&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=00000000" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iktiarr&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=ffffff&bg_color=00000000" /></td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iktiarr&theme=transparent&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏛️ Professional Experience & Organizations
+
+| Year | Organization | Role |
+| :--- | :--- | :--- |
+| 2026 | **Ethicare** | Research and Development |
+| 2026 | **Siebook.id** | Personnel Department |
+| 2026 | **Vitaswastha** | Center Staff |
+| 2023-26 | **FPMP** | Various Committee Roles |
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/iktiarramadani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/iktiarramadani"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/c/iktiarramadani"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:irofficialfeedback@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://lynk.id/iktiarramadani"><img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iktiarr&theme=flat&column=7&margin-w=15&no-bg=true" alt="Trophies" />
+</p>
