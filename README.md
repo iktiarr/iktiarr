@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F9322C&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Iktiar+Ramadani+👋;Information+Systems+Student+%40+UTM;Full-Stack+Web+Developer;Creative+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
+https://capsule-render.vercel.app/api?type=waving&height=250&color=FFFFF,%20000&text=IKTIAR%20RAMADANI&reversal=true&textBg=false&fontAlign=50&animation=fadeIn&desc=SELAMAT%20DATANG%20DI%20SINI&descAlign=50&descAlignY=65
 <p align="center">
   <a href="https://github.com/iktiarr">
     <img src="https://komarev.com/ghpvc/?username=iktiarr&label=Profile%20Views&color=F9322C&style=for-the-badge" alt="iktiarr" />
