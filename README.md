@@ -62,3 +62,10 @@ Dari merancang struktur database yang solid di *backend* hingga menyusun kompone
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iktiarr&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 </div>
+
+# Hi, I'm Iktiar Ramadani 👋
+
+## Languages
+
+<!-- LANGUAGES:START -->
+<!-- LANGUAGES:END -->
