@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Iktiar+Ramadani+👋;Fullstack+Web+Developer;Turning+Ideas+Into+Code;Welcome+To+My+GitHub+Space!" alt="Typing SVG" />
 </div>
 
-<br/>
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=00F0FF,7000FF,FF0055&text=IKTIAR%20RAMADANI&reversal=true&textBg=false&fontAlign=50&animation=fadeIn&fontColor=FFFFFF" alt="Header Wave" />
@@ -10,17 +10,19 @@
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
 Halo! Saya adalah seorang **Fullstack Developer** yang memiliki semangat tinggi dalam mengeksplorasi ekosistem teknologi modern dan membangun aplikasi web yang interaktif.
 
+Saya berfokus pada pengembangan sistem yang efisien, arsitektur yang skalabel, serta pengalaman pengguna yang intuitif dan optimal.
+
 - 🔭 **Saat ini sedang fokus:** Next.js, React, Laravel, dan PostgreSQL.
-- 🌱 **Terus bereksplorasi pada:** Web modern, optimasi performa, dan integrasi AI.
-- ⚡ **Fakta menarik:** Suka refactoring dan mencoba tools deployment baru.
+- 🌱 **Terus bereksplorasi pada:** Web modern, optimasi performa aplikasi, dan integrasi AI.
+- ⚡ **Fakta menarik:** Suka merapikan kode, refactoring, dan mencoba tools deployment baru.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,express,mysql,postgres,sqlite,mongodb,git,github,vscode,vercel,docker,sentry,figma,postman&perline=12&theme=light" alt="Tech Stack" />
@@ -28,31 +30,15 @@ Halo! Saya adalah seorang **Fullstack Developer** yang memiliki semangat tinggi 
 
 ---
 
-### 🧬 Languages Used Across My Repositories
+## 🧬 Languages Used Across My Repositories
 
 <!-- LANGUAGES:START -->
-- **Jupyter Notebook**: 35.3%
-- **TypeScript**: 24.0%
-- **PHP**: 15.9%
-- **HTML**: 9.0%
-- **JavaScript**: 4.0%
-- **Dart**: 2.1%
-- **Svelte**: 2.0%
-- **CSS**: 1.9%
-- **Go**: 1.3%
-- **C++**: 1.3%
-- **Hack**: 1.0%
-- **CMake**: 1.0%
-- **Python**: 1.0%
-- **Swift**: 0.1%
-- **C**: 0.1%
-- **Kotlin**: 0.0%
-- **Objective-C**: 0.0%
+Loading language statistics...
 <!-- LANGUAGES:END -->
 
 ---
 
-### 📊 GitHub Analytics & Contributions
+## 📊 GitHub Analytics & Contributions
 
 <div align="center">
   <img src="https://ghchart.rshah.org/40c463/iktiarr" alt="Contribution Chart" width="100%" />
