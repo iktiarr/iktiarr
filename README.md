@@ -31,7 +31,23 @@ Halo! Saya adalah seorang **Fullstack Developer** yang memiliki semangat tinggi 
 ### 🧬 Languages Used Across My Repositories
 
 <!-- LANGUAGES:START -->
-Loading language statistics...
+- **Jupyter Notebook**: 35.3%
+- **TypeScript**: 24.0%
+- **PHP**: 15.9%
+- **HTML**: 9.0%
+- **JavaScript**: 4.0%
+- **Dart**: 2.1%
+- **Svelte**: 2.0%
+- **CSS**: 1.9%
+- **Go**: 1.3%
+- **C++**: 1.3%
+- **Hack**: 1.0%
+- **CMake**: 1.0%
+- **Python**: 1.0%
+- **Swift**: 0.1%
+- **C**: 0.1%
+- **Kotlin**: 0.0%
+- **Objective-C**: 0.0%
 <!-- LANGUAGES:END -->
 
 ---
