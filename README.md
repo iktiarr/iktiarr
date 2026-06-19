@@ -33,11 +33,11 @@ Saya berfokus pada pengembangan sistem yang efisien, arsitektur yang skalabel, s
 ## 🧬 Languages Used Across My Repositories
 
 <!-- LANGUAGES:START -->
-- **Jupyter Notebook**: 32.8%
-- **TypeScript**: 22.6%
-- **PHP**: 15.7%
+- **Jupyter Notebook**: 32.9%
+- **TypeScript**: 22.7%
+- **PHP**: 15.3%
 - **HTML**: 9.0%
-- **JavaScript**: 6.8%
+- **JavaScript**: 6.9%
 - **CSS**: 2.9%
 - **Svelte**: 2.3%
 - **Dart**: 2.0%
