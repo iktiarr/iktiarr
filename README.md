@@ -50,6 +50,7 @@ Saya berfokus pada pengembangan sistem yang efisien, arsitektur yang skalabel, s
 - **Swift**: 0.5%
 - **C**: 0.1%
 - **Objective-C**: 0.0%
+- **Batchfile**: 0.0%
 <!-- LANGUAGES:END -->
 
 ---
